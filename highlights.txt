@@ -7,6 +7,6 @@ disassembler
 
 ========
 elon
-I made a programming language in Classical Chinese.
+a
 --------
 

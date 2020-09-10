@@ -67,8 +67,6 @@ out += """
 
 
 
-<sub>This README is generated with a Python script and Github Actions. [How it works](https://github.com/LingDong-/LingDong-/blob/master/generate.py)</sub>
-
 
 """
 
